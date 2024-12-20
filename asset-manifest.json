@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tsx-stock-model/static/css/main.93dea0c5.css",
+    "main.js": "/tsx-stock-model/static/js/main.e0fb3273.js",
+    "static/js/453.22a7ff86.chunk.js": "/tsx-stock-model/static/js/453.22a7ff86.chunk.js",
+    "static/media/Azure.png": "/tsx-stock-model/static/media/Azure.5a694f18b0e4f276ce48.png",
+    "static/media/Java.png": "/tsx-stock-model/static/media/Java.fdabd4e11f1235e4e8e0.png",
+    "static/media/PostgreSQL.png": "/tsx-stock-model/static/media/PostgreSQL.a67d702eb2f0f61d6a45.png",
+    "static/media/title.png": "/tsx-stock-model/static/media/title.be3f93bb26978c7bc8bc.png",
+    "static/media/R.png": "/tsx-stock-model/static/media/R.c270749431e92553792b.png",
+    "static/media/CSS.png": "/tsx-stock-model/static/media/CSS.4c95f81a5ba86b4dac98.png",
+    "static/media/PHP.png": "/tsx-stock-model/static/media/PHP.ee9a56d6c494931e6ba1.png",
+    "static/media/HTML.png": "/tsx-stock-model/static/media/HTML.248ada22ae63d625788d.png",
+    "static/media/Node.png": "/tsx-stock-model/static/media/Node.d99c5decced4a0d78a9b.png",
+    "static/media/React.png": "/tsx-stock-model/static/media/React.3b5049ea7908e9da3ba0.png",
+    "static/media/Python.png": "/tsx-stock-model/static/media/Python.eb27b3a10d36bee4821a.png",
+    "static/media/github.png": "/tsx-stock-model/static/media/github.f9f08effba98cbdb7b69.png",
+    "static/media/JavaScript.png": "/tsx-stock-model/static/media/JavaScript.8618298aa7a3f221cfc1.png",
+    "static/media/MySQL.png": "/tsx-stock-model/static/media/MySQL.4676ad983d6bd3e9fac9.png",
+    "static/media/linkedin.png": "/tsx-stock-model/static/media/linkedin.68ac41e1459436bfd38f.png",
+    "index.html": "/tsx-stock-model/index.html",
+    "main.93dea0c5.css.map": "/tsx-stock-model/static/css/main.93dea0c5.css.map",
+    "main.e0fb3273.js.map": "/tsx-stock-model/static/js/main.e0fb3273.js.map",
+    "453.22a7ff86.chunk.js.map": "/tsx-stock-model/static/js/453.22a7ff86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93dea0c5.css",
+    "static/js/main.e0fb3273.js"
+  ]
+}

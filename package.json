@@ -1,4 +1,5 @@
 {
+  "homepage": "https://alexmcmullen80.github.io/tsx-stock-model",
   "name": "serverless-react1",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +21,8 @@
   },
   "scripts": {
     "start": "react-dotenv && react-scripts start --host 0.0.0.0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-dotenv && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-transform-private-property-in-object": "^7.24.7"
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
+    "gh-pages": "^6.2.0"
   }
 }

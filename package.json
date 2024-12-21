@@ -1,5 +1,4 @@
 {
-  "homepage": "https://alexmcmullen80.github.io/tsx-stock-model",
   "name": "serverless-react1",
   "version": "0.1.0",
   "private": true,
@@ -21,8 +20,6 @@
   },
   "scripts": {
     "start": "react-dotenv && react-scripts start --host 0.0.0.0",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-dotenv && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
